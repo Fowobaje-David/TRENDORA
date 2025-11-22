@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ecomzy - E-Commerce Shopping App
 
 A clean, modern, and responsive e-commerce front-end application built with React. This project features a product gallery, filtering by category and price, and a "add to cart" functionality.
@@ -55,3 +56,7 @@ You must have [Node.js](https://nodejs.org/en/) (which includes npm) installed o
     npm start
     ```
     This will run the app in development mode. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+=======
+# TRENDORA
+An E-commerce Website
+>>>>>>> 25ee29f94ef5d4b66d4d0189b605e275ee3a8bd5
