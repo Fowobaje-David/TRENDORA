@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Ecomzy - E-Commerce Shopping App
+# Trendora - E-Commerce Shopping App
 
 A clean, modern, and responsive e-commerce front-end application built with React. This project features a product gallery, filtering by category and price, and a "add to cart" functionality.
 
